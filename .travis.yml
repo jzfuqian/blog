@@ -21,3 +21,6 @@ env:
 branches:
   only:
     - master
+notifications:
+  slack: 
+    - my-github:HR5snotT4kXfhchurTHqQOvc
